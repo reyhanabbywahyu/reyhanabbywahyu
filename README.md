@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <body>
-  
+## About Me 
 I am Reyhan Abby Wahyu Ibrahim, an Information Technology undergraduate student at the Faculty of Informatics at Telkom University. I am interested in Graphic Design, UI / UX Design, Mobile Programmer (Java & Kotlin). I learned the basics of Mobile programming and Interface design from online courses and from course materials. I have also participated in several competitions and organizations in the design field.
   
 ## My Github stats
