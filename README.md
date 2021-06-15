@@ -6,7 +6,7 @@ I am Reyhan Abby Wahyu Ibrahim, an Information Technology undergraduate student 
   
 ## My Github stats
 <p align='center'>
-  <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
+  <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanabbywahyu&layout=compact">
 </p>
 
   <p align="center">
